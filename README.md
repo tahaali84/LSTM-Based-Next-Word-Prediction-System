@@ -26,7 +26,7 @@ The dataset is obtained from the NLTK Gutenberg Corpus.
 - Keras
 - NumPy
 - NLTK
-- - Streamlit
+- Streamlit
 - Deep Learning
 - Natural Language Processing (NLP)
 - LSTM Networks
