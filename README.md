@@ -16,4 +16,5 @@ This project implements a Next Word Prediction system using Long Short-Term Memo
 
 The model is trained on:
 **Shakespeare's Hamlet**
+
 The dataset is obtained from the NLTK Gutenberg Corpus.
