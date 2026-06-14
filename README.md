@@ -11,3 +11,11 @@ This project implements a Next Word Prediction system using Long Short-Term Memo
 - Deep learning-based language modeling using LSTM
 - Real-time next-word prediction
 - Streamlit web interface
+
+## Dataset
+
+The model is trained on:
+
+**Shakespeare's Hamlet**
+
+The dataset is obtained from the NLTK Gutenberg Corpus.
