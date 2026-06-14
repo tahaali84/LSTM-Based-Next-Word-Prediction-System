@@ -18,3 +18,11 @@ The model is trained on:
 **Shakespeare's Hamlet**
 
 The dataset is obtained from the NLTK Gutenberg Corpus.
+
+## Tech Stack
+
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- NLTK
