@@ -9,3 +9,5 @@ This project implements a Next Word Prediction system using Long Short-Term Memo
 - N-gram sequence generation
 - Word embedding using Keras Embedding layer
 - Deep learning-based language modeling using LSTM
+- Real-time next-word prediction
+- Streamlit web interface
